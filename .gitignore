@@ -1,0 +1,10 @@
+/.idea
+target/
+*.iws
+*.iml
+*.ipr
+.kotlintest
+.npm-dist
+/pipeline/secrets/**
+build_id
+md5_sum
